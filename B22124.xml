@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for taking and receiving of the accompts of the whole kingdom : together with the names of the committee which are appointed for that service, who are to enquire of all misdemeanours touching the premises : also, an oath to be taken by every person of the said committee before he enter into the said office, before the speaker for the time being of either Houses of Parliament.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22124</idno><idno type="EEBO-CITATION">12061995</idno>
+  <idno type="VID">196551</idno>
+  <idno type="EEBO-PROQUEST">2240955660</idno>
+  
+            <idno type="STC">Wing E1930</idno>
+            <idno type="OCLC">12061995</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196551)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 234:E34, no 7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for taking and receiving of the accompts of the whole kingdom : together with the names of the committee which are appointed for that service, who are to enquire of all misdemeanours touching the premises : also, an oath to be taken by every person of the said committee before he enter into the said office, before the speaker for the time being of either Houses of Parliament.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb. 24, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196551:1"/>
+            <p>AN ORDINANCE OF The Lords and Commons assembled in PARLIAMENT; For Taking and Receiving of the ACCOMPTS OF The whole Kingdom.</p>
+            <p>Together with the Names of the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> which are appointed for that service, who are to enquire of all Misdemeanours touching the Premises.</p>
+            <p>Also, an Oath to be taken by every person of the said Committee before he enter into the said Office, before the Speaker for the time being of either Houses of Parliament.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That this Ordi<g ref="char:EOLhyphen"/>nance be forthwith printed and published:</p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Edw. Husbands.</hi> Febr. 24. 1643.</p>
+            <pb facs="tcp:196551:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="3" facs="tcp:196551:2"/>
+            <opener>
+               <dateline>
+                  <date>22. Febr. 1643.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons Assembled in Parliament, for ta<g ref="char:EOLhyphen"/>king and Receiving of the Accompts of the whole Kingdome.</head>
+            <p>VVHereas divers sums of money, and other goods have been Raysed, leavyed, and taken by divers persons, partly by vertue of severall Acts of Parliament, Ordinances, and Orders of both or one of the houses of Parliament, and partly by pretence and Colour of the said Acts, Orders, and Ordi<g ref="char:EOLhyphen"/>nances, or some of them, and by other persons without any autho<g ref="char:EOLhyphen"/>rity at all, upon pretences, neverthelesse for the use or service of the Commonwealth; The Lords &amp; Commons in Parliament think it very necessary, and do Ordain, that all &amp; every the Receivers of such sums of Money, Goods, and other things, shall make a perfect accompt of all and every the said sums and Goods: And for that purpose have appointed a Committee hereafter named: And whereas the Lords &amp; Commons hold it fit, that no person lyable to any such accompt shall be of the said Committee, or of any Sub-Committee, for taking the said Accompts: And for the more speedy taking of the same Ac<g ref="char:EOLhyphen"/>compt, have Declared, that no Member, or Officer of either House of Parliament, or Assistant of the Lords House, or Officer of the Army, or other Forces raised by the Parliament, shall be of the
+<pb n="4" facs="tcp:196551:3"/> said Committee or any the Sub-committees.</p>
+            <p>Be it therefore ordained by the Lords and Commons in Parliament, That the persons hereafter named, That is to say, <hi>William Cockain</hi> &amp; <hi>Will: Methold</hi> Merchants, <hi>John Glover</hi> Esq; <hi>William Pryn</hi> Esq; <hi>Iohn Stevens</hi> Esq; <hi>Thomas Hodges</hi> Merchant, <hi>Henry Hunter</hi> Merchant, <hi>Ed<g ref="char:EOLhyphen"/>mond Cason, Samuel Elliot, Iohn Langly</hi> Merchant; <hi>Walter Boothby, Iohn Gregory, Oliver Clowbery, Thomas Hutchins, Anthony Bidolph, Robert Ellis,</hi> Merchants; <hi>Edward Mead, Thomas Andrews, Nichol<g ref="char:EOLhyphen"/>las Gold, Christopher Pack, Daniel Hudson, George Witham, Lau<g ref="char:EOLhyphen"/>rence Brinsl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Andrew Kendrick, William Collins,</hi> shall be a Com<g ref="char:EOLhyphen"/>mittee, for the taking of the said Accounts of all and every the Trea<g ref="char:EOLhyphen"/>surers, Receivers, Collectors, or Agents for the Parliament Mem<g ref="char:EOLhyphen"/>bers, or Officers of either Houses of Parliament, or Assistants of the Lords House; Officers of the Armie, or other Forces raised by Au<g ref="char:EOLhyphen"/>thority of both houses of Parliament, or other person, or persons whatsoever, which have Taken, Received, or Issued ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or shall Re<g ref="char:EOLhyphen"/>ceive or Issue out, or shall be otherwise Chargeable with any the said Monies, or other goods, Raised, Leavied or taken; or that shall be Received, Issued out, Raised, Levied, or taken as aforesaid, and to enquire of all frauds, deceits, or misdemeanours concerning the pre<g ref="char:EOLhyphen"/>meses, as also of the sums of Money that are Rated and Assessed up<g ref="char:EOLhyphen"/>on any person, or persons, and not yet paid, or which shall not at the time of such Accompt be paid, and to certifie the same to both or either of the said Houses, or to any Committee, by both or either of the said Houses in that behalf to be appointed. And every per<g ref="char:EOLhyphen"/>son of the said Committee, hereby Ordained, before he enter up<g ref="char:EOLhyphen"/>on the said service, shall take an Oath before the Speaker for the time being of either of the said Houses, for the due execution of the said Service: Which oath, the severall Speakers for the time being of both the said Houses shall have power, and are hereby Autho<g ref="char:EOLhyphen"/>rized to administer, The teno whereof shall be as followeth, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>I A. B. do sweare, that according to my best skill and knowledge, I shall faithfully, dili<g ref="char:EOLhyphen"/>gently and truely demean my self, in taking the Accompts of all such persons as shall come
+<pb n="5" facs="tcp:196551:3"/> before me in execution of an Ordinance of both Houses of Parliament, entituled, <hi>An Ordinance of the Lords and Commons assembled in Parliament, for taking and receiving of the accompts of the whole King<g ref="char:EOLhyphen"/>dome,</hi> according to the tenour of the said Ordi<g ref="char:EOLhyphen"/>nance: And that I shall not for feare, favour, re<g ref="char:EOLhyphen"/>ward or affection, give any allowance to conceal, spare, or discharge any. So <hi>help me God.</hi>
+               </p>
+            </q>
+            <p>And the said Committee, or any five or more of them, shall have power, and are hereby authorised, if they shall see cause, to make and ordaine sub-Committees in every County, Citie or place where they shall think meet, who shall have the like pow<g ref="char:EOLhyphen"/>er and authority within their severall limits, as the said Com<g ref="char:EOLhyphen"/>mittee before named is authorised▪ to have by vertue of this pre<g ref="char:EOLhyphen"/>sent Ordinance, and shall take the said Oath before any two or more of the said Committee, or such as they shall appoynt, who shall have power, and are hereby authorized and requi<g ref="char:EOLhyphen"/>red to administer the same. The said Oath to bee taken before they take upon them the execution of the said service.</p>
+            <p>And the said Committee herein named; and every such sub-Committee as aforesaid, or any two or more of them respe<g ref="char:EOLhyphen"/>ctively shall have power, and are hereby authorized and requi<g ref="char:EOLhyphen"/>red, to call before them all and every the persons chargeable, as aforesaid, and to cause them to accompt of all and everie such monies and goods for which they or any of them shall be so chargeable and accomptable as aforesaid: Which Accompt shall bee given in upon Oath: and the said Committee, or sub-Committees, or any two of them, are hereby authorized to administer the said Oat: The tenour whereof shall be as fol<g ref="char:EOLhyphen"/>loweth: <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="6" facs="tcp:196551:4"/>
+               <p>I <hi>A. B.</hi> doe Swear, that I shall according to the best of my knowledge, give into this Com<g ref="char:EOLhyphen"/>mittee (or sub-Committee) a just and true Accompt of all and every the moneyes, or other goods by me, or any other by my appoyntment, or to my use, received or issued out, leavyed, or taken by vertue of any Act of this present Par<g ref="char:EOLhyphen"/>liament, Order, or Ordinance of both, or one of the Houses of Parliament, or by colour or pre<g ref="char:EOLhyphen"/>tence of any such Act, Order, or Ordinance, or for which I am any way chargeable, or accomp<g ref="char:EOLhyphen"/>table by force or vertue of a late Ordinance of both the said Houses, entituled, <hi>An Ordinance of the Lords and Commons assembled in Parliament for taking and receiving the accompts of the whole Kingdom, without any fraud or concealement whatsoever.</hi> So help me God.</p>
+            </q>
+            <p>And shall likewise have Power, and are hereby authorized to direct the manner of the said accompts, and to examine as well the persons accomptable, as any witnesses, or others that can informe or testifie any thing materiall touching the Premisse, upon their cor<g ref="char:EOLhyphen"/>porall oaths (which they are hereby authorized to administer) and to send for any person or persons whom they shall think fit, and to cause them to bring in and produce any Books of Ac<g ref="char:EOLhyphen"/>compts, Writings, Papers, Inventories, Apprisements, Rentalls, or other things necessary touching the Premises: And if any person or persons in whose house or custody any such Bookes, Writings, Accompts, or Papers concerning the said Accompt
+<pb n="7" facs="tcp:196551:4"/> shall be supposed to be, shall refuse to shew and produce them, then the said Committee or sub-Committees respectively, or any two or more of them, may cause any doors, locks, bolts, chests, trunks, or other places, of or belonging to any such person or persons (being no Member of either House of Parliament) to be open<g ref="char:EOLhyphen"/>ed, whereby search may be made for any such things. And if any person or persons shall refuse to come or appeare before the said Committee or Sub-Committees, or any two or more of them respectively, upon convenient summons, or shall otherwise wilfully disobey, or withstand their Command, in or concerning the Premises, then they, or any two, or more of them respe<g ref="char:EOLhyphen"/>ctively, shall have power to grant out their Warrants for the apprehending of every such person (being no Member of either House of Parliament) and to punish him by Fine and Impri<g ref="char:EOLhyphen"/>sonment, and to breake open any doores, lockes, bolts, chests, truncks, or other places, of or belonging to such person, where<g ref="char:EOLhyphen"/>by search may be made as aforesaid. And if any such person so refusing to deliver in the Books, Papers, or Writings afore<g ref="char:EOLhyphen"/>said, or disobeying or withstanding their Commands, be a Mem<g ref="char:EOLhyphen"/>ber of either House of Parliament, then to certifie his name and offence to both or either of the said Houses, or to such as they shall appoint to receive the same.</p>
+            <p>And shall have power, and are hereby authorized and required to examine all and every the said person and persons chargeable, as aforesaid, by what Warrant or Warrants they or any of them have received or issued out, or shall receive or issue out any such moneys or goods, and to use all fitting means for the discovery of the truth, in and concerning the Premises, as occasion shall require: And shall certifie their proceedings and doings there<g ref="char:EOLhyphen"/>in to both or either of the said Houses of Parliament, or such as they shall appoint from time to time, when, and as oft as they shall be thereunto required.</p>
+            <p>And the said Committee and Sub-Committees, or any two or more of them respectively, shall have power to appoint Clerks, Registers, and other agents and ministers under them, for the better expediting of the said service, as they shall think fit, and to keep one or more Office or Offices for that purpose, in such place or places as they shall think most convenient, and to do all such other acts and things which shall necessarily conduce to the execution of the said service: And they and all others that
+<pb n="8" facs="tcp:196551:5"/> shall be imployed in and about the said service, shall be there<g ref="char:EOLhyphen"/>in protected and saved harmlesse by the power and authority of both Houses of Parliament: And the Lords and Commons will in due time, take consideration of the pains of the Committees aforenamed; And the said Clerks, ministers, and other agents, shall have such recompence for their charges, pains and travell, in this behalf, as by the said Committee, or any five or more of them shall be thought fit, and shall be approved of by both Houses of Parliament: And those that shall make discovery to the said Committee, or Sub-Committees, or any two or more of them respectively, of any such moneys or goods, as aforesaid, concea<g ref="char:EOLhyphen"/>led or detained by any other person, who is, or ought to be accomptable for the same, shall have six pence in every pound for his service therein, and such further recompence as shall be thought fit by both Houses of Parliament, or such as they shall appoint.</p>
+            <p>And be it further ordained, That all and every person and per<g ref="char:EOLhyphen"/>sons chargeable or accomptable with any such money or goods as aforesaid, by vertue of, or according to this present Ordi<g ref="char:EOLhyphen"/>nance, shall bring in his and their accompts to the said Com<g ref="char:EOLhyphen"/>mittee or Sub-Committees for this service, within their respective limits, within ten dayes after they shall be thereunto required by the said Committee or Sub-Committees, foure or more of them, unlesse the said Committee or Sub-Committees shall think sit in regard of the length of the same accompt, or otherwise to give unto them further time, under paine of sequestration of their Estates, and such other punishment as shall be thought fit by both Houses of Parliament: And the said Lords and Commons doe further ordain and command, all Sheriffes, Majors, Bayliffes, Constables, Headboroughs, and other Officers whatsoever, to be attendant, assistant and obedient to the commands of the said Committees and Sub-Committees respectively, under such penalty of sequestration or otherwise as aforesaid.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
